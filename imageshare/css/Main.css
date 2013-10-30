@@ -1,0 +1,124 @@
+/* 
+    Document   : Main
+    Created on : Mar 27, 2013, 2:32:47 PM
+    Author     : Fewless
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+*{
+    font-family: 'Gabriela', serif !important; 
+}
+body{
+    color: black;
+}
+body #content{
+    width:30%;
+    margin: 0 auto;
+}
+
+h1{
+    color: dimgray;
+}
+.headerBar
+{
+    padding-bottom: 25px;
+    height:100px;
+    width:100%;
+    background-color: white;
+    text-align: center;
+    /*background: black;*/
+}
+#headerPadding{
+    width: 33%;
+    float: left;
+        
+}
+#headerimage{
+  width: 30%;
+  float: left;
+}
+#Logstatus{
+    width: 33%;
+    padding-right: 50px;
+    float:right;
+    display: block;
+}
+
+
+#Logstatus a{
+    font-weight: bold;
+}
+#innerLogStatus{
+    float:right;
+}
+a{
+    text-decoration: none;
+    color: dimgray; 
+}
+a:hover{
+    text-decoration: underline;
+    color: dimgray; 
+} 
+a:visited{
+    text-decoration: none;
+    color: dimgray; 
+}
+.foot{
+    margin: 0; 
+    padding: 0;
+    text-align: center;
+}
+.foot #footContainer{
+    padding-top: 25px;
+    width:500px;
+    margin: 0 auto;
+    text-align: left; 
+    color:grey;
+}
+
+input.rounded {
+    border: 1px solid #ccc;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: 2px 2px 3px #666;
+    -webkit-box-shadow: 2px 2px 3px #666;
+    box-shadow: 2px 2px 3px #666;
+    font-size: 20px;
+    padding: 4px 7px;
+    outline: 0;
+    -webkit-appearance: none;
+}
+#submitbtn {
+    background-color: gray;
+    width: 50%;
+    border: 1px solid #ccc;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: 2px 2px 3px #666;
+    -webkit-box-shadow: 2px 2px 3px #666;
+    box-shadow: 2px 2px 3px #666;
+    font-size: 20px;
+    padding: 4px 7px;
+    outline: 0;
+    -webkit-appearance: none;
+}
+#submitWrapper{
+    margin:  5px 5px 5px 5px;
+    text-align: center;
+}
+#pass_username{
+    margin:  5px 5px 5px 5px;
+    width: 100%;
+    float:left;
+    
+}
+#pass_password{
+    margin:  5px 5px 5px 5px;
+    width: 100%;
+    float:left;
+    
+
+}

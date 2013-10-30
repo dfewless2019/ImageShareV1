@@ -1,0 +1,44 @@
+body #content{
+    width:30%;
+    margin: 0 auto;
+}
+#fname{
+    margin:  5px 5px 5px 5px;
+    width: 40%;
+    float:left;
+}
+#lName{
+    margin:  5px 5px 5px 5px;
+    margin-left: 7%;
+    width: 40%;
+    float:left;
+}
+#userName{
+    margin:  5px 5px 5px 5px;
+    width: 90%
+}
+#Email{
+    margin:  5px 5px 5px 5px;
+    width: 90%
+}
+#password1{
+    margin:  5px 5px 5px 5px;
+    width: 90%
+}
+#password2{
+    margin:  5px 5px 5px 5px;
+    width: 90%
+}
+#captchaholder{
+    margin-top: 15px;
+}
+
+#submitWrapper{
+    margin:  5px 5px 5px 5px;
+    text-align: center;
+}
+
+#fineprint{
+    font-size: 11px;
+    color: dimgray;
+}

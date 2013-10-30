@@ -1,0 +1,1 @@
+[15-Aug-2013 21:19:11 America/New_York] PHP Fatal error:  Call to undefined function validBlank() in /home/multidim/public_html/imageshare/_include/display.php on line 20
